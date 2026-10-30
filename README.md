@@ -1,2 +1,2 @@
 # tugas
-Tempat source-code proyek-proyek kuliah
+Tempat ngumpul source code proyek kuliah
