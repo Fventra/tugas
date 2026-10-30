@@ -22,7 +22,7 @@ def menu():
         print("""
         
 =========================================================
-          Selamat Datang di sistem peringatan gempa dan tsunami!
+ Selamat Datang di sistem peringatan gempa dan tsunami!
 =========================================================
 Silahkan pilih menu dibawah!
 
