@@ -1,7 +1,7 @@
 # Program Sistem_peringatan_gempa_dan_tsunami.py
 
 # Memberikan peringatan kepada warga di sekitar pantai tentang 
-# gempa yang baru terjadi untuk berbagai tingkatintensitas gempa serta
+# gempa yang baru terjadi untuk berbagai tingkat intensitas gempa serta
 # memperkirakan tinggi gelombang tsunami yang akan datang
 
 # Kamus
